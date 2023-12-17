@@ -1,3 +1,2 @@
 # flower
-Cicekcim Project
-Taklitlerimden sakının.
+Cicekcim Projesi, Mobil Uygulama geliştirme projesidir.
