@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "307035000213",
+    "project_id": "flower-453fa",
+    "storage_bucket": "flower-453fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:307035000213:android:bb368aa99cd2010685ba9c",
+        "android_client_info": {
+          "package_name": "com.demir.starter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwWLwbxBF2q7qbDnU7UbJJpGpdkoS1RBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

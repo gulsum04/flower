@@ -1,0 +1,23 @@
+<resources>>
+    <string name="title_home">Anasayfa</string>
+    <string name="title_basket">Sepetim</string>
+    <string name="title_account">Hesabım</string>
+
+    <string name="label_search">Ara</string>
+    <string name="label_name_surname">Ad Soyad</string>
+    <string name="label_phone">Telefon</string>
+    <string name="label_email">Email</string>
+    <string name="label_password">Şifre</string>
+    <string name="label_register">Kayıt Ol</string>
+    <string name="label_category_rose">Güller</string>
+    <string name="label_category_food">Yenilebilir</string>
+    <string name="label_category_birthday">Doğum Günü</string>
+    <string name="label_category_same_day">Ev Bitkisi</string>
+    <string name="label_category_plant"> Ev Bitkisi</string>
+
+    <string name="message_empty_input_warning">Lütfen giriş yapınız!</string>
+    <string name="message_short_input_warning">Şifre çok kısa!</string>
+    <string name="message_space_input_warning">Şifre boşluk içermemelidir!</string>
+    <string name="message_user_registered">Kullanıcı oluşturuldu!</string>
+    <string name="web_client_id">979502888025-f90bcaesobm0b5vg69tm154m7fpkk91h.apps.googleusercontent.com</string>
+</resources>
